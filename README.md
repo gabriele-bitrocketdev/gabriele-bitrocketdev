@@ -49,5 +49,5 @@ I have always been attracted to the tech world.
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/gabrielepolizzotto-bitrocketdev/
+[linkedin]: https://www.linkedin.com/in/gabrielepolizzotto/
 [GitHubGist]: https://gist.github.com/gabrielepolizzotto-bitrocketdev/
